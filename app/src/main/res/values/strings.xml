@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="convert">CONVERT</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="from_f_to_c">FROM F TO C</string>
+    <string name="from_c_to_f">FROM C TO F</string>
+    <string name="enter_temperature">Enter Temperature</string>
+    <string name="your_answer">Your Answer</string>
+</resources>
